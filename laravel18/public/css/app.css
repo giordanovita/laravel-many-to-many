@@ -1,0 +1,22 @@
+body {
+  background-color: aqua;
+}
+
+body header {
+  text-align: center;
+  color: white;
+}
+
+body ul {
+  list-style-type: none;
+}
+
+body ul .general {
+  width: 40%;
+  border: 1px solid white;
+  border-radius: 6px;
+  padding: 15px;
+  margin-bottom: 15px;
+  background-color: #045858;
+}
+
